@@ -1,0 +1,12 @@
+.add-comment-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    min-width: 50%;
+}
+
+.add-comment-box input{
+    padding:10px;
+    
+}
